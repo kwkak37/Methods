@@ -5,6 +5,8 @@ that allow interaction with the remote computer almost as if the user were physi
 
 * On your VM, ssh has been enabled with the shell command `sudo apt -y install openssh-server`
 
+*Done[KK]
+
 ## Login via SSH
 0. Connecting via SSH requires, at a minimum, knowledge of a username and password for the computer being connected to
 0. At any given moment, if you are at the command prompt of a specific machine running unix, there is only one machine in the universe that is absolutely guaranteed to be accessible: That machine whose command prompt you are at!
@@ -34,6 +36,9 @@ that allow interaction with the remote computer almost as if the user were physi
    * When the econ-ark user uses ssh to connect as the econ-ark user to localost, everything looks identical to the way it would look before the ssh command
    * Logging in as root first allows you to see that you have actually accomplished something with the ssh command
 
+*Done[KK]
+
+
 ## Copy files via `scp`
 
 Once you have exited back to your original `econ-ark` identity, it is time to learn the second tool in the ssh suite: `scp` which is short for `secure copy`
@@ -48,6 +53,8 @@ We are going to again become root for the purpose of executing this command. Bel
 
 A Google search for `scp command examples` will turn up a host of other ways to use the command. You can also do a bit of
 prep work so that you do not need to enter your password for the remote machine every time you use the command.
+
+*Done[KK]
 
 ## SSH keys
 
@@ -70,6 +77,9 @@ If the keys DO exist already, you need to make sure they have the right permissi
   `sudo chown -Rf econ-ark ~/.ssh`
   `sudo chmod 600 ~/.ssh/id_rsa`
   `sudo chmod 644 ~/.ssh/id_rsa.pub`
+
+*Done[KK]
+
 
 ## Registering your key with a remote resource (GitHub)
 
@@ -96,6 +106,9 @@ You would need to change this using a command like:
 
   `git remote set-url origin git@github.com/ccarrollATjhuecon/BST-Shared.git`
 
+
+*Done[KK]
+
 ## Git Credential Helper
 
 Another way to avoid having always to enter your password is to use a `credential-helper`
@@ -108,6 +121,9 @@ To set up the credential helper, from a shell:
 
    `git config --global credential.helper cache`
    `git config --global credential.helper 'cache --timeout=3600'`
+
+*Done[KK]
+
 
 ## Mount A Network Drive
 
@@ -127,3 +143,5 @@ you should see exactly the same listing, because these are two paths to the same
 The command to unmount:
 
 	sudo fusermount -u /mnt/Methods
+	
+* Done[KK]

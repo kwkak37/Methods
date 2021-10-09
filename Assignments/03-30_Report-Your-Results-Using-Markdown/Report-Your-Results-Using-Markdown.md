@@ -17,7 +17,7 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
 
    1. If you executed the step with no difficulty and the instructions were easy to follow, you can just write Done [FML].  The next line provides an example, if I were a student, of how I would respond to the current line if I had finished going through all the assignments and had done everything:
 
-      * Done [CDC]
+      * Done [KK]
 
    0. If the instructions were clear enough (in retrospect) but they were difficult to execute in practice, you might provide a response like
 
@@ -25,7 +25,7 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
 
    0. If the instructions were not clear enough for you to be able to figure out what to do and you were unable to accomplish it, you should provide a description of what you tried and your guess of why it failed.  For example, if you did not have write permission for the files and could not figure out how to grant yourself such permission, you might write:
 
-      * I couldn't change the names of the files to add my moniker because I did not have the right permissions  [Kyung Woong Koh, KK]
+      * I couldn't change the names of the files to add my moniker because I did not have the right permissions  [KK]
 
    0. When you find a place where you think the instructions should be improved or added to or clarified, you should post a GitHub "issue" containing your proposed edits. For example, you might want to edit the line earlier in the this assignment that reads:
 
@@ -34,6 +34,9 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
 	   instead to say
 	   
        0. All lines you add to the files should end with your initials (FirstMiddleLast, [FML]). If you do not have a middle name, use the letter X [CXC]
+
+
+* Done[KK]
 
    0. When you are done editing the assignments, you should be able to examine the resulting prettified Markdown document by hitting C-c C-c p (that is, Control-C, Control-C, p). You may want to search about this command online. (Google: `markdown editing mode in emacs`)
    

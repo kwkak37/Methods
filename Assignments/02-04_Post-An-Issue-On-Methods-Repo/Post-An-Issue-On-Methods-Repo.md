@@ -11,3 +11,4 @@ This assignment is to:
 0. Identify some aspect of the Methods repo about which it would make sense to post an "issue"
    * This can be an outright error or something that is confusing or some content you think should be added, or anything else that your research tells you is an appropriate use of the "issue" mechanism in GitHub.
    
+* Done[KK]

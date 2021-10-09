@@ -30,6 +30,9 @@ When that is done, complete the assignment below (which combines elementary bash
 
 0. In the `Terminal` shell, type `cd ~` to change the directory to the home directory `~` where you created the file
 
+*Done[KK]
+
+
 0. Before the file can be executed, it must be marked as executable.
 
    * This is done using the `chmod` command (short for `change the modification characteristics of the file`)
@@ -48,6 +51,8 @@ When that is done, complete the assignment below (which combines elementary bash
 
    `./First-Bash-Script-[Moniker].sh  > First-Bash-Script-[Moniker].out`
 
+*Done[KK]
+
 0. View the results in two ways:
 
    0.  At the shell type `cat *.out`
@@ -62,6 +67,8 @@ When that is done, complete the assignment below (which combines elementary bash
 
       * The reason is that your previous invocation of emacs included the `-nw` flag, which is short for `no window` and has the effect of launching emacs inside the shell window
 
+* Done[KK]
+
 0. Update your local copy of the class "Methods" repository:
 
     `cd ~/GitHub/ccarrollATjhuecon/Methods`
@@ -70,4 +77,4 @@ When that is done, complete the assignment below (which combines elementary bash
 0. Move your script to the /Assignments/[##-##]-Write-Your-First-Bash-Script-Using-Emacs in the
 local copy the "Methods" repo
 
-
+*Done[KWK]
