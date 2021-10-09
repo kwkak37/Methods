@@ -25,7 +25,7 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
 
    0. If the instructions were not clear enough for you to be able to figure out what to do and you were unable to accomplish it, you should provide a description of what you tried and your guess of why it failed.  For example, if you did not have write permission for the files and could not figure out how to grant yourself such permission, you might write:
 
-      * I couldn't change the names of the files to add my moniker because I did not have the right permissions  [CDC]
+      * I couldn't change the names of the files to add my moniker because I did not have the right permissions  [Kyung Woong Koh, KK]
 
    0. When you find a place where you think the instructions should be improved or added to or clarified, you should post a GitHub "issue" containing your proposed edits. For example, you might want to edit the line earlier in the this assignment that reads:
 
@@ -45,4 +45,3 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
    * push the new version to your online fork:
       `git push` 
    * Go online to github.com and issue a Pull Request for the change to be merged in
-   
